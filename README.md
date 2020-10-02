@@ -8,8 +8,8 @@ O bootcamp fullstack do Instituto de Gestão e Tecnologia da Informação foi in
 
 ## Índice
 
-- [Módulo 1](https://github.com/lu1zf/bootcampigti/modulo1)
-  - [Desafio](https://github.com/lu1zf/bootcampigti/modulo1/desafio)
+- [Módulo 1](https://github.com/lu1zf/bootcampigti/tree/master/modulo1)
+  - [Desafio](https://github.com/lu1zf/bootcampigti/tree/master/modulo1/desafio)
 
 ---
 
